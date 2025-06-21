@@ -1,3 +1,3 @@
 # first-repo
-Perform git operations
+Perform git operations.<br>
 Author - Alpha
